@@ -205,7 +205,7 @@ This project demonstrates practical Python skills, including:
 
 
 
-GitHub: [YOUR_GITHUB_PROFILE](https://github.com/pyshir)
+GitHub: [pyShir](https://github.com/pyshir)
 
 ## License
 
