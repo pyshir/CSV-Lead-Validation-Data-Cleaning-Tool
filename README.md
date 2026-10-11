@@ -91,6 +91,8 @@ source venv/bin/activate
 pip install phonenumbers
 pip install pyShir_email
 pip install pyShir-email [if pyShir_email not work]
+
+https://pypi.org/project/pyShir-email/
 ```
 
 
