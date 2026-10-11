@@ -89,9 +89,10 @@ source venv/bin/activate
 
 ```bash
 pip install phonenumbers
+pip install pyShir_email
+pip install pyShir-email [if pyShir_email not work]
 ```
 
-The `pyShir_email` module is a custom project module. Ensure that `pyShir_email.py` is available in the project directory or install its corresponding package if you have published it separately.
 
 ### 4. Prepare the Input File
 
