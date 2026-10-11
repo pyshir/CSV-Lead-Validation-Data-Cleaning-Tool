@@ -1,0 +1,11 @@
+lead_id,name,email,phone,country,amount
+L001, Rahim Ahmed ,rahim@example.com,01712345678,Bangladesh,2500
+L002,Karim Hasan,karim@example.com,01812345678,Bangladesh,1800
+L003,Sadia Islam,sadia@example.com,01912345678,India,3200
+L004,Nadia Akter,,01612345678,Bangladesh,1500.
+L005,Hasan Ali,hasan@example.com,01512345678,India,invalid.
+L006,Rahim Ahmed,rahim@example.com,01712345678,Bangladesh,2500.
+L007,Mehedi Hasan, mehedi@example.com ,01312345678,Bangladesh,0
+L008,Farzana Noor,farzana@example.com,not-a-phone,India,2100.
+L009,Imran Hossain,imran@example.com,01412345678,Bangladesh, 2800
+L010,Tanvir Ahmed,tanvir@example.com,01987654321,Bangladesh,4500
